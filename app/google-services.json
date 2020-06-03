@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334708050462",
+    "firebase_url": "https://malnadtech-18518.firebaseio.com",
+    "project_id": "malnadtech-18518",
+    "storage_bucket": "malnadtech-18518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334708050462:android:6979ccfd45118badb07c0f",
+        "android_client_info": {
+          "package_name": "com.malnadtech.desiner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334708050462-5mrbn8ohloil88tmfvo25bgobnu25eo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFoarW-9qk4Gm5W2S0QjERFDSZ1NXHk6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334708050462-5mrbn8ohloil88tmfvo25bgobnu25eo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
